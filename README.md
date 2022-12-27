@@ -2,12 +2,12 @@
 
 ###
 
-<h2 align="center">A Passionate & enthusiastic tech explorer from India</h2>
+<h2 align="left">A Passionate & enthusiastic tech explorer from India</h2>
 
 ###
 
 <div align="right">
-  <img height="250" src=""  />
+  <img height="250" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 </div>
 
 ###
