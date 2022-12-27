@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Full stack development | Programming | DevOps | IoT | Embedded | Automation | Video editing | Graphic designing | Electronics and communication</h2>
+<h2 align="center">A Passionate & enthusiastic tech explorer from India</h2>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<img src="https://github.com/badiwalshubham/badiwalshubham/blob/main/snake.yml" />
+
 
 ###
 
@@ -80,8 +80,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=badiwal" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=11&theme=react&hide_border=false&username=badiwal" height="161" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badiwalshubham&show_icons=true&locale=en&layout=compact" alt="badiwalshubham" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badiwalshubham&show_icons=true&locale=en" alt="badiwalshubham"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badiwalshubham&" alt="badiwalshubham"  />
 </div>
 
 ###
