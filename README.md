@@ -7,7 +7,7 @@
 ###
 
 <div align="right">
-  <img height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&psig=AOvVaw2NCjkv1nM_RWrAPvcol1Wz&ust=1672251040191000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCY89uymvwCFQAAAAAdAAAAABAW"  />
+  <img height="250" src=""  />
 </div>
 
 ###
@@ -67,7 +67,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/badiwal/badiwal/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/badiwalshubham/badiwalshubham/blob/main/snake.yml" />
 
 ###
 
