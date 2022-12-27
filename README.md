@@ -32,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="centre">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" width="49" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="38" width="49" alt="embeddedc logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" width="49" alt="cplusplus logo"  />
