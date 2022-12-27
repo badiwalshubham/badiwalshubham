@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="left">A Passionate & enthusiastic tech explorer from India</h2>
+<h2 align="center">A Passionate & enthusiastic tech explorer from India.</h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="250" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 </div>
 
@@ -83,7 +83,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badiwalshubham&show_icons=true&locale=en&layout=compact" alt="badiwalshubham" />
   <img src="https://github-readme-stats.vercel.app/api?username=badiwalshubham&show_icons=true&locale=en" alt="badiwalshubham"  />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badiwalshubham&" alt="badiwalshubham"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badiwalshubham&" alt="badiwalshubham"  />
 </div>
 
 ###
