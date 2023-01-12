@@ -83,8 +83,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badiwalshubham&show_icons=true&locale=en&layout=compact" alt="badiwalshubham" />
-  <img src="https://github-readme-stats.vercel.app/api?username=badiwalshubham&show_icons=true&locale=en" alt="badiwalshubham"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badiwalshubham&" alt="badiwalshubham"  />
 </div>
 
