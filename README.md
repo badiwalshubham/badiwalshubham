@@ -3,8 +3,8 @@
 
 ###
 
-<h3 align="center">A Passionate & enthusiastic tech explorer from India.</h3>
-<h3 align="center"> Full Stack Developer </h3>
+<h3 align="center">A Passionate & enthusiastic tech explorer</h3>
+<h3 align="center"> Tech Driven! </h3>
 
 
 <div align="center">
